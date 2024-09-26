@@ -5,10 +5,10 @@ an entire system will be created to manage bank transactions for clients who
 have one or more bank accounts.
 
 ## Author
-[Your name]
+Enzo Kneipp
 
 ## Assignment
-Assignment [assignment number]: [Indicate the name and description of the current assignment]
+Assignment 01: Classes, Encapsulation, and Unit Test Planning
 
 ## Encapsulation
-[use this section to explain how Encapsulation was achieved in the BankAccount and Transaction classes.]
+Encapsulation in the `Client` and `BankAccount` classes was achieved by using private attributes (`__client_number`, `__balance`, etc.) and exposing only necessary properties using getter methods.
